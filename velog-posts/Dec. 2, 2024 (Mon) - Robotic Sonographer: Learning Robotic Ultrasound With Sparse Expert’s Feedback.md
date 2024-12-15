@@ -1,0 +1,5 @@
+<h1 id="--title-robotic-sonographer-learning-robotic-ultrasound-with-sparse-experts-feedback"><strong>- Title: Robotic Sonographer: Learning Robotic Ultrasound With Sparse Expert’s Feedback</strong></h1>
+<ul>
+<li>Ref: <a href="https://ieeexplore-ieee-org-ssl.libproxy.snu.ac.kr/document/10684826">https://ieeexplore-ieee-org-ssl.libproxy.snu.ac.kr/document/10684826</a></li>
+<li>Summary: Robotic ultrasound (RUS) offers a viable solution to address its limitations; nonetheless, achieving human-level proficiency remains challenging. Imitation learning or learning-from-demonstrations (LfD) methods have been explored in RUS, which learns a policy prior from offline demonstrations to encode the mental model of expert sonographers. This paper suggests a coaching framework (i.e., active feedback) for RUS to amplify its performance. This novel framework combines DRL (self-supervised practice employing an off-policy Soft Actor-Critic (SAC) network) with sparse expert feedback through coaching. The coaching by experts is modeled as a Partially Observable Markov Decision Process (POMDP).</li>
+</ul>
