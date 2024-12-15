@@ -1,0 +1,5 @@
+<h1 id="title-comparing-structure-function-relationships-in-brain-networks-using-eeg-and-fnirs"><strong>Title: Comparing structure-function relationships in brain networks using EEG and fNIRS</strong></h1>
+<ul>
+<li>Ref: <a href="https://www.nature.com/articles/s41598-024-79817-x">https://www.nature.com/articles/s41598-024-79817-x</a></li>
+<li>Summary: Identifying relationships between structural and functional networks is important. Emerging techniques like fNIRS for investigating structure-function relationships remain underexplored. In this study, using simultaneous EEG and fNIRS recordings from 18 subjects, researchers characterized global and local structure-function coupling using source-reconstructed EEG and fNIRS signals in both resting state and motor imagery tasks, as relationships during task periods remain underexplored. Technically, they used the mathematical framework of graph signal processing. Results show that fNIRS structure-function coupling resembles slower-frequency EEG coupling at rest, with variations across brain states and oscillations.</li>
+</ul>
