@@ -1,0 +1,5 @@
+<h1 id="title-exploring-the-dynamics-of-prefrontal-cortex-in-the-interaction-between-orienteering-experience-and-cognitive-performance-by-fnirs"><strong>Title: Exploring the dynamics of prefrontal cortex in the interaction between orienteering experience and cognitive performance by fNIRS</strong></h1>
+<ul>
+<li>Ref: <a href="https://www.nature.com/articles/s41598-024-65747-1">https://www.nature.com/articles/s41598-024-65747-1</a></li>
+<li>Summary: The acknowledged plasticity of cognition driven by sports requires comprehensive examination. The impact of orienteering experience on cognitive performance was measured using fNIRS signals. The high-experience expert group exhibited neurological efficiency and demonstrated significantly reduced brain activation in the dorsolateral prefrontal, left ventral lateral prefrontal, and right orbitofrontal regions compared to the low-experience group.</li>
+</ul>
