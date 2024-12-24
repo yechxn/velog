@@ -1,0 +1,5 @@
+<h1 id="title-enhanced-control-of-a-braincomputer-interface-by-tetraplegic-participants-via-neural-network-mediated-feature-extraction"><strong>Title: Enhanced control of a brain–computer interface by tetraplegic participants via neural-network-mediated feature extraction</strong></h1>
+<ul>
+<li>Ref: <a href="https://www.nature.com/articles/s41551-024-01297-1">https://www.nature.com/articles/s41551-024-01297-1</a></li>
+<li>Summary: To construct a high-quality signal, BCI must extract features that accurately estimate neural activity (i.e., neuronal action potential signal). Feature-engineering techniques to recover functional information have advanced with the advancement of AI, and the quantified goal is a high SNR. A CNN combining feature extraction and decoding can be used to map neural activity. This neural network led to excellent performance both offline and online in a cursor-control task.</li>
+</ul>
