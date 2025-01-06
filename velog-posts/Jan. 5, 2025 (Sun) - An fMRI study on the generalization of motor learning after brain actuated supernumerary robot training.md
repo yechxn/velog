@@ -1,0 +1,6 @@
+<h1 id="an-fmri-study-on-the-generalization-of-motor-learning-after-brain-actuated-supernumerary-robot-training"><strong>An fMRI study on the generalization of motor learning after brain actuated supernumerary robot training</strong></h1>
+<ul>
+<li>Ref: <a href="https://www.nature.com/articles/s41539-024-00294-y">https://www.nature.com/articles/s41539-024-00294-y</a></li>
+<li>Summary: The BCI-actuated supernumerary robotic finger (BCI-SRF) for brain-machine interaction is a research field focused on studying the brain's neuroplasticity mechanisms during motor learning tasks. After training, the BCI-SRF group showed a 350% improvement in sequence opposition accuracy compared to the Finger group before and after training. The BCI-SRF group had increased functional connectivity in the prefrontal cortex (PFC) and the sensorimotor regions, including both intra- and inter-hemispheric networks. In conclusion, the BCI-SRF task enhances motor sequence learning ability by reorganizing functional networks in the sensorimotor regions.</li>
+</ul>
+<p><img alt="" src="https://velog.velcdn.com/images/yechxn/post/e9c5346f-697b-499c-9ec3-e0a51be1a426/image.png" /></p>
