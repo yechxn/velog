@@ -1,0 +1,6 @@
+<h1 id="transcranial-focused-ultrasound-mediated-neurochemical-and-functional-connectivity-changes-in-deep-cortical-regions-in-humans"><strong>Transcranial focused ultrasound-mediated neurochemical and functional connectivity changes in deep cortical regions in humans</strong></h1>
+<ul>
+<li>Ref: <a href="https://www.nature.com/articles/s41467-023-40998-0">https://www.nature.com/articles/s41467-023-40998-0</a></li>
+<li>Summary: Low-intensity transcranial ultrasound stimulation (TUS) is an emerging non-invasive technique for focally neuromodulating brain function. Neurochemical mechanisms underlying TUS remain under investigation. Theta-burst TUS, a protocol shown to increase corticospinal excitability, reduced GABA (gamma-aminobutyric acid) levels in two regions: the posterior cingulate cortex (PCC) and the dorsal anterior cingulate cortex (dACC). Furthermore, functional connectivity in both regions increased following TUS.</li>
+</ul>
+<p><img alt="" src="https://velog.velcdn.com/images/yechxn/post/1467dae7-5198-4a52-9ca1-fa36314975af/image.png" /></p>
